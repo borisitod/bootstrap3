@@ -26,7 +26,13 @@ Notes:	 Hand coded for Udemy.com
    Navbar
    -------------------------------------- */
 body { padding-top: 70px; }
-   
+#searchInput {
+    width: 200px;
+}
+
+.navbar-brand {
+    padding: 13px 15px;
+}
    
 /* --------------------------------------
    Carousel
@@ -51,7 +57,10 @@ body { padding-top: 70px; }
 
 /* Landscape phone to portrait tablet */
 @media (max-width: 768px) {
-	
+	input#searchInput {
+        display: inline-block;
+    }
+    
 }
 
 /* Large desktop */
