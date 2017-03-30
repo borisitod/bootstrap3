@@ -24,6 +24,13 @@ Notes:	 Hand coded for bootstrap
 #inputMessage {
     margin-bottom: 15px;
 }
+
+footer {
+    background:  #333;
+    color: #eee;
+    font-size: 11px;
+    padding: 20px;
+}
 /* --------------------------------------
    Typography
    -------------------------------------- */
@@ -41,7 +48,10 @@ Notes:	 Hand coded for bootstrap
     margin-top: 0;
 }
 
-.l
+ul.unstyled {
+    list-style: none;
+    padding: 0;
+}
 
 
 /* --------------------------------------
