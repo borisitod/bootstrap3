@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="96e1ce85-90cf-44be-955e-8ec86dd37bc4" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/css/styles.css" afterPath="$PROJECT_DIR$/includes/css/styles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/js/script.js" afterPath="$PROJECT_DIR$/includes/js/script.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,15 +19,16 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="257">
-              <caret line="237" column="96" lean-forward="false" selection-start-line="237" selection-start-column="96" selection-end-line="237" selection-end-column="96" />
+            <state relative-caret-position="311">
+              <caret line="261" column="188" lean-forward="false" selection-start-line="261" selection-start-column="188" selection-end-line="261" selection-end-column="188" />
               <folding>
                 <element signature="e#3967#3972#0" expanded="true" />
                 <element signature="e#5117#5124#0" expanded="true" />
                 <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#11305#11312#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -35,18 +37,18 @@
       <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/includes/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="98" column="23" lean-forward="false" selection-start-line="98" selection-start-column="14" selection-end-line="98" selection-end-column="23" />
+            <state relative-caret-position="300">
+              <caret line="24" column="23" lean-forward="false" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/includes/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="27" lean-forward="false" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+            <state relative-caret-position="390">
+              <caret line="26" column="35" lean-forward="false" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -62,9 +64,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/includes/js/script.js" />
         <option value="$PROJECT_DIR$/includes/css/styles.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/includes/js/script.js" />
       </list>
     </option>
   </component>
@@ -244,12 +246,12 @@
       <option name="presentableId" value="Default" />
       <updated>1490686867170</updated>
       <workItem from="1490686869634" duration="15795000" />
-      <workItem from="1490842221144" duration="2418000" />
+      <workItem from="1490842221144" duration="4814000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18213000" />
+    <option name="totallyTimeSpent" value="20609000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="797" extended-state="6" />
@@ -294,6 +296,7 @@
             <element signature="e#3967#3972#0" expanded="true" />
             <element signature="e#5117#5124#0" expanded="true" />
             <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#11305#11312#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -324,32 +327,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/includes/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="27" lean-forward="false" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/includes/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="98" column="23" lean-forward="false" selection-start-line="98" selection-start-column="14" selection-end-line="98" selection-end-column="23" />
+        <state relative-caret-position="300">
+          <caret line="24" column="23" lean-forward="false" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="237" column="96" lean-forward="false" selection-start-line="237" selection-start-column="96" selection-end-line="237" selection-end-column="96" />
+        <state relative-caret-position="311">
+          <caret line="261" column="188" lean-forward="false" selection-start-line="261" selection-start-column="188" selection-end-line="261" selection-end-column="188" />
           <folding>
             <element signature="e#3967#3972#0" expanded="true" />
             <element signature="e#5117#5124#0" expanded="true" />
             <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#11305#11312#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="35" lean-forward="false" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>

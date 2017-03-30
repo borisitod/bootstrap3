@@ -243,6 +243,61 @@
 							<hr>
 
 							<a href="#myModal" role="button" class="btn btn-warning" data-toggle="modal"><span class="glyphicon glyphicon-hand-up"></span> Click for a Modal Window!</a>
+
+							<div class="modal fade" id="myModal">
+								<div class="modal-dialog">
+									<div class="modal-content">
+										<div class="modal-header">
+											<button class="close" data-dismiss="modal">&times;</button>
+											<h4 class="modal-title">A Modal Window</h4>
+										</div>
+										<div class="modal-body">
+											<h4>Text in a modal</h4>
+											<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+
+											<h4>Popovers in a modal</h4>
+											<a href="#" class="btn btn-danger pop" data-toggle="popover" data-placement="top" data-original-title="You clicked it!" data-content="I know you will..">Don't click this button</a>
+
+											<h4>Tooltips in a modal</h4>
+											<a href="" data-original-title="Tooltip" rel="tooltip">This link</a> should have tooltip, and so should <a href="#" data-original-title="Woohoo!" rel="tooltip">this one</a>!
+
+											<hr>
+
+											<p><small class="text-muted">PS. This form doesn't do anything. Just a heads up.</small></p>
+
+											<form class="form-horizontal">
+												<div class="form-group">
+													<label class="col-lg-2 control-label" for="inputName">Name:</label>
+													<div class="col-lg-10">
+														<input type="text" class="form-control" id="inputName" placeholder="Type your name">
+													</div>
+												</div>
+
+												<div class="form-group">
+													<label class="col-lg-2 control-label" for="inputEmail">Email:</label>
+													<div class="col-lg-10">
+														<input type="email" class="form-control" id="inputEmail" placeholder="Type your email">
+													</div>
+												</div>
+
+												<div class="form-group">
+													<label class="col-lg-2 control-label" for="inputMessage">Name:</label>
+													<div class="col-lg-10">
+														<textarea type="textarea" class="form-control" id="inputMessage" placeholder="Type your message" rows="3"></textarea>
+
+														<button class="btn btn-success pull-right" type="submit">Send</button>
+													</div>
+												</div>
+											</form>
+										</div>
+
+										<div class="modal-footer">
+											<button class="btn btn-default" data-dismiss="modal" type="button">Close</button>
+											<button class="btn btn-primary" type="button">Save Changes</button>
+										</div>
+									</div>
+								</div>
+							</div>
 						</div>
 					</div>
 				</div>
